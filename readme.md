@@ -1,17 +1,18 @@
-# 🎓 EduSupport AI
+#  EduSupport 
 ### Fine-Tuned AI Assistant for Engineering Students
 
 EduSupport AI is an AI-powered student assistant built using **Qwen2.5-1.5B-Instruct**, fine-tuned with **QLoRA and LoRA**. It provides simple, concise, and branch-specific explanations for engineering students.
 
-## 📸 Demo Preview
+##  Demo Preview
 
 <!-- Upload your application screenshots here -->
 
-![EduSupport AI Home](screenshots/home.png)
+<!-- ![EduSupport AI Home](screenshots/home.png) -->
+![alt text](image-1.png)
 
-![EduSupport AI Chat](screenshots/chat.png)
+![Chat](image.png)
 
-## ✨ Features
+##  Features
 
 - Supports five engineering branches.
 - Fine-tuned Qwen2.5-1.5B-Instruct model.
@@ -21,7 +22,7 @@ EduSupport AI is an AI-powered student assistant built using **Qwen2.5-1.5B-Inst
 - Interactive Streamlit chatbot.
 - Local GPU inference with 4-bit quantization.
 
-## 🎓 Supported Branches
+##  Supported Branches
 
 - AI & Machine Learning
 - Computer Science & Engineering
@@ -29,7 +30,7 @@ EduSupport AI is an AI-powered student assistant built using **Qwen2.5-1.5B-Inst
 - Mechanical Engineering
 - Civil Engineering
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Category | Technologies |
 |---|---|
@@ -72,7 +73,7 @@ Python Formatter
 Structured Answer
 ```
 
-## 📁 Project Structure
+##  Project Structure
 
 ```text
 EduSupport_AI/
@@ -88,7 +89,7 @@ EduSupport_AI/
 └── screenshots/
 ```
 
-## ⚙️ Run Locally
+##  Run Locally
 
 **1. Clone the repository**
 
@@ -126,7 +127,7 @@ Open `http://localhost:8501` in your browser.
 **Arpan Mondal**  
 B.Tech — Artificial Intelligence & Machine Learning
 
-[GitHub](https://github.com/YOUR_USERNAME) | [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/)
+[GitHub](https://github.com/arpan0009e) | [LinkedIn](https://www.linkedin.com/in/arpan0009e/)
 
 ---
 
